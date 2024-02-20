@@ -16,7 +16,7 @@ main {
   display: flex;
 }
 section {
-  width: 320px;
+  width: 335px;
   background-color: white;
   border-top: 2px solid black;
   border-left: 1px solid black;
@@ -51,6 +51,7 @@ p:nth-child(3),p:nth-child(5) {
   padding: 12px 2px;
   text-align: justify;
   font-size: 16px;
+   color:  hsl(0, 0%, 7%);
 }
 
 
